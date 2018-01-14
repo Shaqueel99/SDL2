@@ -1,1 +1,1 @@
-web:gunicorn sdl2:app
+web: gunicorn SDL2:app
